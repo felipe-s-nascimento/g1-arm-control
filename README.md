@@ -28,7 +28,7 @@ e reproduzi-las em sequência ou em loop.
 
 ## 🎥 Vídeo de Demonstração / Demo Video
 
-[![Assista ao vídeo de demonstração](https://img.youtube.com/vi/TnkKCivPc74/maxresdefault.jpg)](https://www.youtube.com/watch?v=TnkKCivPc74)
+[![Assista ao vídeo de demonstração]](https://github.com/user-attachments/assets/776cdb01-6b19-421b-9196-b3eaa972dd22)
 
 ## Requisitos
 
